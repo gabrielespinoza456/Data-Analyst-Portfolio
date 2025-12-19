@@ -1,6 +1,9 @@
 # 🏡 US Housing Market Monitor (2000–2025)
 
-![Dashboard Screenshot](link_to_your_dashboard_screenshot.png)
+<img width="1210" height="679" alt="dashboard1" src="https://github.com/user-attachments/assets/a16b761d-1c5a-45a8-a006-dffdbfa7d5a1" />
+
+<img width="1208" height="680" alt="dashboard2" src="https://github.com/user-attachments/assets/a39a5059-0f81-4762-b511-a54c1e6af40d" />
+
 
 ### [📂 Download Interactive Dashboard (.pbix) via Google Drive](https://drive.google.com/file/d/1Xw_J7vsRNeZNt8Ngcw3EkR4ELhZ2Csnk/view?usp=drive_link)
 
