@@ -16,7 +16,7 @@
     * **Data Cleaning:** Filtered for WI region, removed "Not Available" strings in key metric columns to enable numeric conversion, and filled null values for "Birthing Friendly" designation.
     * **Feature Engineering:** Calculated custom "Net Scores" for Safety, Mortality, and Readmission to normalize performance metrics (Measures Better - Measures Worse).
 * **Python (Geopy):**
-    * Used the Geopy library to programmatically retrieve Latitude/Longitude coordinates for hospital addresses from the OpenStreetMap API.
+    * Used the Geopy library to programmatically retrieve Latitude/Longitude coordinates for hospital addresses from the OpenStreetMap API so that the hospital locations could be properly visualized on a map.
     * **Data Quality:** Manually filled in 4 missing coordinate pairs using Google Maps data.
 * **Tableau:**
     * **Visualization:** Mapped spatial distribution of hospital ratings.
