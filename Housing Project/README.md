@@ -19,7 +19,7 @@
     * Interactive US Heat Map illustrating regional price disparities.
     * **Custom Tooltips:** Hovering over any state reveals a dynamic 25-year trendline of monthly payments for that specific region.
 2.  **Current Cost Analysis:**
-    * **Top 15 Ranking:** Automatically filters and ranks the most expensive US cities based on *current* monthly mortgage costs (2025).
+    * **Top 10 Ranking:** Automatically filters and ranks the most expensive US cities based on *current* monthly mortgage costs (2025).
     * **KPI Indicators:** Real-time tracking of National Average Home Price, Interest Rate, and Estimated Monthly Payment.
 3.  **Macroeconomic Context:**
     * **Dual-Axis Analysis:** Visualizes the decoupling of Home Price vs. Monthly Cost to show the impact of recent interest rate hikes.
