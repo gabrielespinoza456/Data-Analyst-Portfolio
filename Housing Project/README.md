@@ -12,7 +12,7 @@
 
 ## 💾 Data Sources
 * **Zillow Research Data:** [Zillow Home Value Index (ZHVI)](https://www.zillow.com/research/data/) - *Used for historical home value data across all US zip codes.*
-* **Federal Reserve Economic Data (FRED):** [30-Year Fixed Rate Mortgage Average (MORTGAGE30)](https://fred.stlouisfed.org/series/MORTGAGE30) - *Used for historical interest rate data.*
+* **Federal Reserve Economic Data (FRED):** [30-Year Fixed Rate Mortgage Average (MORTGAGE30)](https://fred.stlouisfed.org/series/MORTGAGE30US) - *Used for historical interest rate data.*
 
 ## 🔍 Key Features & Capabilities
 1.  **Geospatial Drill-Down:**
