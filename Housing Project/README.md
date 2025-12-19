@@ -57,7 +57,7 @@
 * `MORTGAGE30US.xlsx`: Excel sheet showing the Pivot Table creation.
 * `us_mortgage_rates.csv`: The resulting CSV from the Pivot Table created from the FRED dataset.
 * `Unpivoting_Zillow_Data.ipynb`: Jupyter Notebook for unpivoting the Zillow data and exporting the result to a CSV file.
-* `mySQL import debugging.ipynb`: Jupyter Notebook for importing the unpivoted Zillow data to a local MySQL server.
+* `mySQL_import_debugging.ipynb`: Jupyter Notebook for importing the unpivoted Zillow data to a local MySQL server.
 * `Zillow_Rates_View.sql`: SQL View definition containing the mortgage calculation logic.
 * `Housing_Portfolio_Project.pbix`: The interactive Power BI dashboard file.
 
