@@ -52,7 +52,7 @@
 * **UI/UX:** Designed "Report Page Tooltips" to provide a 25-year historical drill-down when hovering over any state on the map.
 
 ## 📂 Project Structure
-> ⚠️ **Note on File Sizes:** Due to GitHub's file size limits (100MB), the raw Zillow CSVs, the unpivoted dataset, and the Power BI file are not hosted directly in this repository. Please use the **Google Drive link** above to view the dashboard, or the **Data Sources** links to access the raw data. You can run `Unpivoting_Zillow_Data.ipynb` to recreate the unpivoted Zillow data.
+> ⚠️ **Note on File Sizes:** Due to GitHub's file size limits, the raw Zillow CSV, the unpivoted dataset CSV, and the Power BI dashboard file are not hosted directly in this repository. Please use the **Google Drive link** above to view the dashboard, or the **Data Sources** links to access the raw data. You can run `Unpivoting_Zillow_Data.ipynb` to recreate the unpivoted Zillow data.
 
 * `MORTGAGE30US.xlsx`: Excel sheet showing the Pivot Table creation.
 * `us_mortgage_rates.csv`: The resulting CSV from the Pivot Table created from the FRED dataset.
