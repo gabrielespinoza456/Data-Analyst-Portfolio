@@ -13,14 +13,14 @@
 ## 🛠️ Tech Stack & Workflow
 * **Python (Pandas):**
     * Ingested raw CMS data (`Hospital_General_Information.csv`).
-    * **Data Cleaning:** Filtered for WI region, removed "Not Available" strings to enable numeric conversion, and imputed null values for "Birthing Friendly" designation.
-    * **Feature Engineering:** Calculated custom "Net Scores" for Safety, Mortality, and Readmission to normalize performance metrics.
+    * **Data Cleaning:** Filtered for WI region, removed "Not Available" strings in key metric columns to enable numeric conversion, and filled null values for "Birthing Friendly" designation.
+    * **Feature Engineering:** Calculated custom "Net Scores" for Safety, Mortality, and Readmission to normalize performance metrics (Measures Better - Measures Worse).
 * **Python (Geopy):**
-    * Built a geocoding script to programmatically fetch Latitude/Longitude coordinates for hospital addresses.
-    * **Data Quality:** Manually validated and patched 4 missing coordinate pairs using Google Maps data.
+    * Used the Geopy library to programmatically retrieve Latitude/Longitude coordinates for hospital addresses from the OpenStreetMap API.
+    * **Data Quality:** Manually filled in 4 missing coordinate pairs using Google Maps data.
 * **Tableau:**
     * **Visualization:** Mapped spatial distribution of hospital ratings.
-    * **Interactivity:** Created dynamic **Dashboard Actions** where clicking a summary bar updates the detailed ranking charts.
+    * **Interactivity:** Created a dynamic **Dashboard Action** where clicking a summary bar updates the detailed ranking chart.
     * **Parameters:** Implemented a "Select Metric" parameter allowing users to toggle the ranking chart between Safety, Mortality, and Readmission views.
 
 ## 📊 Key Visualizations
