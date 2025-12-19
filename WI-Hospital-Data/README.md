@@ -10,7 +10,7 @@
 
 ## 🛠️ Tech Stack & Workflow
 * **Python (Pandas):**
-    * Ingested raw [CMS data](https://data.cms.gov/provider-data/dataset/xubh-q36u#overview) (`Hospital_General_Information.csv`).
+    * Ingested raw [CMS data](https://data.cms.gov/provider-data/dataset/xubh-q36u) (`Hospital_General_Information.csv`).
     * **Data Cleaning:** Filtered for WI region, removed "Not Available" strings in key metric columns to enable numeric conversion, and filled null values for "Birthing Friendly" designation.
     * **Feature Engineering:** Calculated custom "Net Scores" for Safety, Mortality, and Readmission to normalize performance metrics (Measures Better - Measures Worse).
 * **Python (Geopy):**
