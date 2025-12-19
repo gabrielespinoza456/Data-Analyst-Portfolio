@@ -7,8 +7,6 @@
 
 ## 📄 Project Overview
 **Goal:** To analyze CMS provider data and evaluate the performance of Wisconsin hospitals across three critical metrics: **Safety, Mortality, and Readmission**.
-**Role:** Data Analyst
-**Status:** Complete
 
 ## 🛠️ Tech Stack & Workflow
 * **Python (Pandas):**
