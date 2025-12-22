@@ -4,7 +4,7 @@ If you're viewing this repository, you are likely reviewing a job application of
 
 ### 🚀 Featured Projects
 * **[Housing Project](https://github.com/gabrielespinoza456/Data-Analyst-Portfolio/tree/main/Housing%20Project):** Developed an ETL pipeline to process and analyze **8M+ records** of housing data using Python and SQL.
-* **[WI-Hospital-Data](https://github.com/gabrielespinoza456/Data-Analyst-Portfolio/tree/main/WI-Hospital-Data):** Created a Tableau dashboard visualizing regional healthcare metrics across Wisconsin.
+* **[WI-Hospital-Data](https://github.com/gabrielespinoza456/Data-Analyst-Portfolio/tree/main/WI-Hospital-Data):** Filtered/cleaned federal hospital data in Python and created a Tableau dashboard visualizing key healthcare metrics across Wisconsin.
 
 ### 💡 Key Professional Achievement
 * Identified an annual **$1M–$4M revenue leak** for a major healthcare client by bridging disparate data tables with custom SQL.
